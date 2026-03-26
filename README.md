@@ -64,6 +64,3 @@ Automate report generation
 
 Author
 Saravanan
-📄 License
-
-This project is for educational purposes.
